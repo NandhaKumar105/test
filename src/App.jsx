@@ -2,7 +2,8 @@ function App()
 {
   return(
     <>
-    <h3>hai</h3>
+    <h3>hello</h3>
+    <h3>bye</h3>
     
     
     </>
